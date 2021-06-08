@@ -9,7 +9,7 @@ This is my Journey so far
 
 
 
-Qwiklabs Profile : https://google.qwiklabs.com/public_profiles/8d42a3d2-5409-46d6-be6b-44588fe2ca14
+Qwiklabs Profile with Google Badges : https://google.qwiklabs.com/public_profiles/8d42a3d2-5409-46d6-be6b-44588fe2ca14
 
-
+Credly Profile with all IBM Badges : https://www.credly.com/users/tawadros-gamal
 
