@@ -2,10 +2,11 @@
 This is my Journey so far
 
 
-| #| Course Name  | Platform  | Type | Start Date | End Date |
-| :---:   | :-: | :-: |:---: | :---: |:---: |
-| Seconds | 301 | 283 |ssssss| dddd|ass|
-
+| #| Course Name  | Platform  | Type | Start Date | End Date | Link |
+| :---:   | :-: | :-: |:---: | :---: |:---: |:---: |
+| Seconds | 301 | 283 |ssssss| dddd|ass|:---: |
+| :---:   | :-: | :-: |:---: | :---: |:---: |:---: |
+| Seconds | 301 | 283 |ssssss| dddd|ass|:---: |
 
 
 
