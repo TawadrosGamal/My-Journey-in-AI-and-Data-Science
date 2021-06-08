@@ -5,8 +5,7 @@ This is my Journey so far
 | #| Course Name  | Platform  | Type | Start Date | End Date | Link |
 | :---:   | :-: | :-: |:---: | :---: |:---: |:---: |
 | Seconds | 301 | 283 |ssssss| dddd|ass|:---: |
-| :---:   | :-: | :-: |:---: | :---: |:---: |:---: |
-| Seconds | 301 | 283 |ssssss| dddd|ass|:---: |
+| Seconds | Artificial Intelligence Intro | IBM |Badge| 25 June 2019|25 June 2019|https://www.credly.com/badges/e3e1f4e5-e9c0-4464-83a9-61601b5712bc/public_url |
 
 
 
